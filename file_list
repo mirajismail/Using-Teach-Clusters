@@ -1,4 +1,11 @@
-/etc/passwd
-/etc/not_real_file
-/home/yourname/something.txt
-
+bar.jpg
+baz.jpg
+foo.jpg
+thumb_bar.jpg
+thumb_baz.jpg
+thumb_foo.jpg
+missing1.jpg
+missing2.txt
+hmmer_project
+README.md
+does_not_exist.png
