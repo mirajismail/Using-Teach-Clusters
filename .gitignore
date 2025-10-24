@@ -1,0 +1,12 @@
+# Ignore large data files and generated outputs
+*.fasta
+*.hmm
+*.gz
+*.out
+*.err
+*.txt
+results/
+fasta_chunks/
+uniprot_sprot.fasta
+Pfam-A.hmm
+jobperf_*.log

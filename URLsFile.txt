@@ -1,0 +1,9 @@
+https://www.google.com
+https://www.github.com
+https://www.imagemagick.org
+https://www.nonexistentwebsite123456789.com
+https://www.wikipedia.org
+https://thisurldoesnotexist.fake
+https://google.com
+https://youtube.com
+https://line9doesntexist.com

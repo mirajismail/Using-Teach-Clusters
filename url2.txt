@@ -1,0 +1,7 @@
+https://www.google.com
+https://www.github.com
+https://www.imagemagick.org
+https://www.nonexistentwebsite123456789.com
+https://www.wikipedia.org
+https://thisurldoesnotexist.fake
+
