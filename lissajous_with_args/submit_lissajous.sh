@@ -7,8 +7,6 @@
 #SBATCH --cpus-per-task=8
 #SBATCH --time=00:10:00
 
-# Load modules if needed
-# module load gcc parallel
 
 # Compile
 g++ -O2 -o lissajous_args lissajous_args.cpp -lm
